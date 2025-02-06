@@ -12,6 +12,8 @@ public class MaksCameraController : MonoBehaviour
     [SerializeField] private float minY = -5f;
     [SerializeField] private float maxY = 5f;
 
+    [Header("Collision Settings")]
+
     private Vector3 _screenCenter;
 
     private void Start()
