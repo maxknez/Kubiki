@@ -123,4 +123,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletPrefab: {fileID: 3434244102203874019, guid: bd36c0700c388dd439d69c4b8d76201a, type: 3}
   shootInterval: 1
-  randomizerRange: 0.5
+  randomizerRange: 0.7
